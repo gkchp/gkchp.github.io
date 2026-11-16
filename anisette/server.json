@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "gkchp",
+            "address": "https://anisette.gkchp.net"
+        }
+    ]
+}
